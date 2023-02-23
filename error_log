@@ -1,0 +1,109 @@
+[09-Jun-2022 16:43:34 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php:15
+Stack trace:
+#0 /home2/tajrucom/new.tajrubah.com/bootstrap/app.php(51): GlaivePro\Hidevara\HidingHandler->__construct(Object(App\Exceptions\Handler))
+#1 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(700): {closure}(Object(App\Exceptions\Handler), Object(Illuminate\Foundation\Application))
+#2 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#5 /home2/tajru in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php on line 15
+[09-Jun-2022 16:43:37 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php:15
+Stack trace:
+#0 /home2/tajrucom/new.tajrubah.com/bootstrap/app.php(51): GlaivePro\Hidevara\HidingHandler->__construct(Object(App\Exceptions\Handler))
+#1 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(700): {closure}(Object(App\Exceptions\Handler), Object(Illuminate\Foundation\Application))
+#2 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#5 /home2/tajru in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php on line 15
+[09-Jun-2022 16:43:48 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php:15
+Stack trace:
+#0 /home2/tajrucom/new.tajrubah.com/bootstrap/app.php(51): GlaivePro\Hidevara\HidingHandler->__construct(Object(App\Exceptions\Handler))
+#1 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(700): {closure}(Object(App\Exceptions\Handler), Object(Illuminate\Foundation\Application))
+#2 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#5 /home2/tajru in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php on line 15
+[09-Jun-2022 16:44:46 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php:15
+Stack trace:
+#0 /home2/tajrucom/new.tajrubah.com/bootstrap/app.php(51): GlaivePro\Hidevara\HidingHandler->__construct(Object(App\Exceptions\Handler))
+#1 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(700): {closure}(Object(App\Exceptions\Handler), Object(Illuminate\Foundation\Application))
+#2 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#5 /home2/tajru in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php on line 15
+[09-Jun-2022 16:44:57 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php:15
+Stack trace:
+#0 /home2/tajrucom/new.tajrubah.com/bootstrap/app.php(51): GlaivePro\Hidevara\HidingHandler->__construct(Object(App\Exceptions\Handler))
+#1 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(700): {closure}(Object(App\Exceptions\Handler), Object(Illuminate\Foundation\Application))
+#2 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home2/tajrucom/new.tajrubah.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#5 /home2/tajru in /home2/tajrucom/new.tajrubah.com/vendor/glaivepro/hidevara/src/HidingHandler.php on line 15
+[06-Jul-2022 03:32:27 America/Chicago] PHP Warning:  symlink(): File exists in /home2/tajrucom/new.tajrubah.com/symlink.php on line 1
+[17-Jul-2022 12:05:38 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getWishlist() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 36
+[17-Jul-2022 12:05:54 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getWishlist() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 36
+[17-Jul-2022 12:06:21 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getWishlist() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 36
+[17-Jul-2022 12:06:55 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getWishlist() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 37
+[17-Jul-2022 14:34:41 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 28
+[17-Jul-2022 14:43:35 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 28
+[18-Jul-2022 09:32:08 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getWishlist() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 56
+[18-Jul-2022 17:33:15 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 133
+[18-Jul-2022 17:33:19 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 133
+[18-Jul-2022 17:34:59 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 133
+[19-Jul-2022 11:28:43 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 97
+[24-Jul-2022 10:52:01 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\Api\OtherController::getNewNotifications() in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 177
+[25-Jul-2022 02:55:29 America/Chicago] PHP Warning:  symlink(): File exists in /home2/tajrucom/public_html/symlink.php on line 1
+[25-Jul-2022 09:41:21 America/Chicago] PHP Warning:  symlink(): No such file or directory in /home2/tajrucom/public_html/symlink.php on line 1
+[25-Jul-2022 09:48:53 America/Chicago] PHP Warning:  symlink(): No such file or directory in /home2/tajrucom/public_html/symlink.php on line 1
+[23-Aug-2022 14:31:31 Asia/Amman] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home2/tajrucom/public_html/app/Controllers/Api/OtherController.php on line 17
+[25-Aug-2022 15:16:26 Asia/Amman] PHP Fatal error:  Can't use function return value in write context in /home2/tajrucom/public_html/app/Controllers/CheckoutController.php on line 17
+[11-Sep-2022 12:33:44 Asia/Amman] PHP Fatal error:  Can't use function return value in write context in /home2/tajrucom/public_html/storage/framework/views/80c7eb4bc0f05887eecb043cc4ac9d4ec9eb3cc8.php on line 328
+[12-Sep-2022 11:10:10 Asia/Amman] PHP Fatal error:  Cannot redeclare App\Controllers\CategoryController::getCategories() in /home2/tajrucom/public_html/app/Controllers/CategoryController.php on line 16
+[12-Sep-2022 15:08:07 Asia/Amman] PHP Fatal error:  Can't use method return value in write context in /home2/tajrucom/public_html/storage/framework/views/ae463901d0f2312d5634cbee83fa0dcb67171fd3.php on line 88
+[12-Sep-2022 15:08:18 Asia/Amman] PHP Fatal error:  Can't use method return value in write context in /home2/tajrucom/public_html/storage/framework/views/ae463901d0f2312d5634cbee83fa0dcb67171fd3.php on line 88
+[12-Sep-2022 15:08:33 Asia/Amman] PHP Fatal error:  Can't use method return value in write context in /home2/tajrucom/public_html/storage/framework/views/ae463901d0f2312d5634cbee83fa0dcb67171fd3.php on line 88
+[14-Sep-2022 09:59:02 Asia/Amman] PHP Fatal error:  Illegal offset type in /home2/tajrucom/public_html/app/Controllers/Api/AddStayController.php on line 34
+[17-Sep-2022 17:29:40 Asia/Amman] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home2/tajrucom/public_html/app/Controllers/Api/AddStayController.php on line 65
+[17-Sep-2022 17:29:40 Asia/Amman] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home2/tajrucom/public_html/app/Controllers/Api/AddStayController.php on line 66
+[29-Sep-2022 13:28:21 Asia/Amman] PHP Fatal error:  Can't use method return value in write context in /home2/tajrucom/public_html/app/Controllers/Api/HomeController.php on line 1955
+[10-Oct-2022 03:04:15 America/Chicago] PHP Warning:  symlink(): No such file or directory in /home2/tajrucom/public_html/symlink.php on line 1
+[10-Oct-2022 15:41:58 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/storage/framework/views/511ece4ee69969dcc878fcb47db7dfd4cb1b3d07.php on line 55
+[22-Oct-2022 13:11:26 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home2/tajrucom/public_html/vendor/composer/platform_check.php on line 25
+[24-Oct-2022 01:48:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function make() on int in /home2/tajrucom/public_html/public/index.php:52
+Stack trace:
+#0 /home2/tajrucom/public_html/server.php(41): require_once()
+#1 {main}
+  thrown in /home2/tajrucom/public_html/public/index.php on line 52
+[24-Oct-2022 07:51:22 Europe/London] PHP Fatal error:  require(): Failed opening required '/home2/tajrucom/public_html/app/Config/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 69
+[24-Oct-2022 07:51:24 Europe/London] PHP Fatal error:  require(): Failed opening required '/home2/tajrucom/public_html/app/Config/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 69
+[24-Oct-2022 07:51:33 Europe/London] PHP Fatal error:  require(): Failed opening required '/home2/tajrucom/public_html/app/Config/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 69
+[24-Oct-2022 01:56:23 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/tajrucom/asp.clicknbook.co/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/asp.clicknbook.co/public/index.php on line 38
+[24-Oct-2022 04:23:52 America/Chicago] PHP Warning:  require_once(/home2/tajrucom/asp.clicknbook.co/public/index.php): failed to open stream: No such file or directory in /home2/tajrucom/asp.clicknbook.co/server.php on line 41
+[24-Oct-2022 04:23:52 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/tajrucom/asp.clicknbook.co/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/asp.clicknbook.co/server.php on line 41
+[24-Oct-2022 04:54:03 America/Chicago] PHP Warning:  symlink(): File exists in /home2/tajrucom/public_html/symlink.php on line 1
+[24-Oct-2022 04:54:08 America/Chicago] PHP Warning:  symlink(): File exists in /home2/tajrucom/public_html/symlink.php on line 1
+[24-Oct-2022 06:02:07 America/Chicago] PHP Warning:  include(): Failed opening '/home2/tajrucom/public_html/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 06:02:07 America/Chicago] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illum in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[25-Oct-2022 02:23:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in Command line code on line 14
+[25-Oct-2022 12:16:44 Asia/Amman] PHP Fatal error:  Cannot use [] for reading in /home2/tajrucom/public_html/app/Controllers/Api/UserController.php on line 58
+[26-Oct-2022 13:39:35 Asia/Amman] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/tajrucom/public_html/vendor/gumlet/php-image-resize/lib/ImageResize.php on line 293
+[31-Oct-2022 09:40:16 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/Api/UserController.php on line 744
+[31-Oct-2022 09:41:03 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/Api/UserController.php on line 744
+[02-Jan-2023 11:10:30 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/ChatController.php on line 23
+[02-Jan-2023 11:10:31 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/ChatController.php on line 23
+[02-Jan-2023 11:10:31 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/ChatController.php on line 23
+[02-Jan-2023 11:10:32 Asia/Amman] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/tajrucom/public_html/app/Controllers/ChatController.php on line 23
+[17-Jan-2023 22:54:09 America/Chicago] PHP Fatal error:  Cannot redeclare abort() (previously declared in /home2/tajrucom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php:36) in /tmp/phpPj3cgB on line 2
+[22-Jan-2023 00:48:50 America/Chicago] PHP Warning:  require_once(/home2/tajrucom/public_html/../bootstrap/app.php): failed to open stream: No such file or directory in /home2/tajrucom/public_html/index.php on line 38
+[22-Jan-2023 00:48:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/tajrucom/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/index.php on line 38
+[22-Jan-2023 00:49:16 America/Chicago] PHP Warning:  require_once(/home2/tajrucom/public_html/../bootstrap/app.php): failed to open stream: No such file or directory in /home2/tajrucom/public_html/index.php on line 38
+[22-Jan-2023 00:49:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/tajrucom/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/tajrucom/public_html/index.php on line 38
+[12-Feb-2023 06:17:15 UTC] PHP Deprecated:  Required parameter $email_to follows optional parameter $email_from in /home/potatoco/public_html/clicknbook.co/app/Helpers/global.php on line 558
+[12-Feb-2023 06:17:15 UTC] PHP Deprecated:  Required parameter $subject follows optional parameter $email_from in /home/potatoco/public_html/clicknbook.co/app/Helpers/global.php on line 558
+[12-Feb-2023 06:17:15 UTC] PHP Deprecated:  Required parameter $body follows optional parameter $email_from in /home/potatoco/public_html/clicknbook.co/app/Helpers/global.php on line 558
+[12-Feb-2023 06:17:15 UTC] PHP Deprecated:  Required parameter $term_id follows optional parameter $by in /home/potatoco/public_html/clicknbook.co/app/Helpers/terms.php on line 62
